@@ -15,6 +15,9 @@
     "monocle": "#9180b0",
     "unfocused": "#9180b0" 
 },
+  "transparency": true,
+  "transparency_alpha": 230,
+
   "animation": {
 	"enabled":true,
 	"duration": 250,

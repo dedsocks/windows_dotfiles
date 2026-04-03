@@ -1,5 +1,3 @@
-# windows_dotfiles
-Configuration files for customization of Windows. Achieved by changing config files for Windows utilities such as PowerShell, and using tools such as yasb, komorebi, and Windhawk.
 # dotfiles
 
 Configuration files for my Windows setup. Achieved by changing config files for Windows utilities such as PowerShell, and relying on tools such as yasb, komorebi, Windhawk and Powertoys.
@@ -21,8 +19,6 @@ Configuration files for my Windows setup. Achieved by changing config files for 
 ### 🔴 Red Theme — Neon Genesis Evangelion
 > *Inspired by the UI of NERV's Magi system 
 
-[Red Theme Showcase](https://drive.google.com/file/d/1wJG70yX3vMd8zK2VuswqPhoM9IWZWs8R/view?usp=sharing)
-
 **Palette**
 | Role | Color |
 |---|---|
@@ -31,6 +27,12 @@ Configuration files for my Windows setup. Achieved by changing config files for 
 | Hover / Salmon | `#f5857c` — UI Salmon |
 | Background | `#0a0a0a` |
 | Surface | `#1a1a1a` |
+
+[Red Theme Showcase](https://drive.google.com/file/d/1wJG70yX3vMd8zK2VuswqPhoM9IWZWs8R/view?usp=sharing)
+
+<img src="assets/red_theme_screenshot.jpg" width="600">
+
+[Setup Guide](./themes/red_theme/setup/setup.md)
 
 ---
 
